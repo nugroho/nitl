@@ -1,0 +1,19 @@
+# $Id$
+# 1. BBC
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk_backup
+# 2. Paramuda
+http://115.178.48.42:9990
+# 3. OZ FM
+http://45.64.97.211:1031
+# 4. Ardan
+http://listento.ardanradio.com:1059
+# 5. Gajah Mada FM
+http://gajahmada.i.streaming.id:8000/live
+# 6. Elshinta
+http://202.137.4.147:8000
+# 7. Sonora
+http://103.226.246.245/kompas-sonorajakarta
+# 8. Prambors
+http://masima.rastream.com/masima-pramborsjakarta
+# 9. California Radio Internet
+http://stream.radioparadise.com/mp3-128
